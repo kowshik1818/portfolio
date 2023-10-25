@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolionpm%20install%20--save%20gh-pages/static/css/main.4152c3d3.css",
+    "main.js": "/portfolionpm%20install%20--save%20gh-pages/static/js/main.16211253.js",
+    "index.html": "/portfolionpm%20install%20--save%20gh-pages/index.html",
+    "main.4152c3d3.css.map": "/portfolionpm%20install%20--save%20gh-pages/static/css/main.4152c3d3.css.map",
+    "main.16211253.js.map": "/portfolionpm%20install%20--save%20gh-pages/static/js/main.16211253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.16211253.js"
+  ]
+}
